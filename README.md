@@ -5,8 +5,10 @@ Iciba plugin for Wox launcher
 Clone into `Plugins` folder in Wox installation directory and restart Wox launcher.
 
 # Notice
-API key from [ici][https://github.com/Flowerowl/ici].
+API key from [ici].
 
 # TODO
 * [ ] Improve UI
 * [ ] Upload to Wox plugin repository
+
+[ici]: https://github.com/Flowerowl/ici
