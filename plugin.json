@@ -1,0 +1,12 @@
+{
+  "ID":"25F89FE07DEC4029B1596AD102C88CDF",
+  "ActionKeyword":"ici",
+  "Name":"ICI",
+  "Description":"Iciba plugin for Wox",
+  "Author":"Joker Qyou",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"http://mynook.info",
+  "IcoPath": "Images\\pic.png",
+  "ExecuteFileName":"ici.py"
+}
